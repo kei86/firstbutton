@@ -1,2 +1,2 @@
-# firstbutton
+# atomic-react
 Created with CodeSandbox
